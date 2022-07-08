@@ -8,7 +8,7 @@ COMPLETED_FOLDER = "./completed/"
 DB_UPLOAD_PATH = "/" # This can be set to the dropbox folder you want shit saved into
 
 # usually this would be set as environment variables for security reasons but im lazy
-ACCESS_TOKEN = "sl.BK9NeLKwDceglxXw-JXiMo0lyvHxgpdTP3vLZMV7o822WHJctRWklRv2vBwVY26AR8TdZ6HLMdW3IEq0eC6uik8bRxIYT3qR5uLnQtGh9KT0THwOn8rRPUr9yDIrDsnGo0q0d-E"
+ACCESS_TOKEN = ""
 
 dbx = dropbox.Dropbox(ACCESS_TOKEN)
 
